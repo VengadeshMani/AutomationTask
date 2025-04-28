@@ -1,0 +1,25 @@
+{
+    "bookAgain": "Yes",
+    "text": "Would you book with us again?",
+    "reference": "No",
+    "text1": "May we use you as a reference?",
+    "statementcompanywebsite": "Great service.Highly recommend.",
+    "nextPlaceTravel": "1 year",
+    "text2": "When do you think you will travel next?",
+
+    "africanContinent": "Namibia",
+    "text3": "African Continent",
+    "indianSubContinent": "Kerala",
+    "text4": "Indian Sub-Continent",
+    "latinAmerica": "Brazil",
+    "text5": "Latin America",
+    "australia": "Luxury Cruise",
+    "text6": "Australia",
+    "middleEast": "Jordan",
+    "text7": "Middle East",
+    "polar": "Antartica",
+    "text8": "Polar",
+    "experiencesAppeal": "Food",
+    "text9": "Experiences that appeal to you",
+    "additionalFeedbackText":"Service was easy to use."
+}

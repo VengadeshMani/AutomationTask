@@ -1,0 +1,33 @@
+{
+    "jun-Accomodation":1,
+    "jun-Staff":2,
+    "jun-Guiding":3,
+    "jun-Safety":4,
+
+    "junOkavango-Accomodation":5,
+    "junOkavango-Staff":4,
+    "junOkavango-Guiding":3,
+    "junOkavango-Safety":2,
+
+    "junTuludi-Accomodation":1,
+    "junTuludi-Staff":2,
+    "junTuludi-Guiding":3,
+    "junTuludi-Safety":4,
+
+    "junSan-Accomodation":5,
+    "junSan-Staff":2,
+    "junSan-Guiding":3,
+    "junSan-Safety":4,
+
+    "junInflight-Accomodation":1,
+    "junInflight-Staff":2,
+    "junInflight-Guiding":3,
+    "junInflight-Safety":4,
+
+    "junWelcomeHome-Accomodation":1,
+    "junWelcomeHome-Staff":3,
+    "junWelcomeHome-Guiding":5,
+    "junWelcomeHome-Safety":2
+
+
+}

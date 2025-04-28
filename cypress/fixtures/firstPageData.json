@@ -1,0 +1,40 @@
+{
+"url": "https://dev-survey.classicsafaricompany.com.au/survey/form/85dc1a91e101269664cdeb655725c0?email=cherath.s@gmail.com",
+
+"checkClientName":"Anna Van Der Merwe",
+"checkDestination":"South Africa - Botswana",
+"checkDateTravel":"11-06-2026",
+"checkConsultant":"Kath Austin",
+"checkFileId":"12344432",
+"name":"Vengadesh",
+"chooseTrip" : "I chose the trip for adventure",
+"tripForYou" :"The most important aspects of the trip were exploring new places",
+"improveTrip" : "Explore more place to visit",
+"suggestImprove":"Make processes easier and faster",
+
+"pre-Handling":"5",
+"pre-Consultant ":"4",
+"pre-Responsiveness":"3",
+"pre-Presentation ":"2",
+"pre-Invoice":"1",
+"pre-Clothing":"4",
+"pre-departure":"3",
+
+"Itinerary-routing":"1",
+"Itinerary-pace":"2",
+"Itinerary-length":"3",
+"Itinerary-Variety ":"4",
+"Itinerary-Accomodation":"5",
+"Itinerary-Transfers":"2",
+"Itinerary-Activities":"3",
+
+"Guides-Welcome":"5",
+"Guides-Enthusiasm":"4",
+"Guides-Knowledge":"3",
+"Guides-Overall":"2",
+
+"Vamoos-Instructions":"1",
+"Vamoos-useful":"2",
+"Vamoos-navigate":"3",
+"Vamoos-OverallRating":"4"
+}
